@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: darkorange;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 3px dotted rgb(216, 0, 0);
+    padding: 30px 30px 30px 30px;
+}
+h1.greatings {
+        text-align: center;
+        }
+h3 {
+    color: rgb(216, 0, 0);
+}
